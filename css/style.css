@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+    background-image: url(https://i.pinimg.com/originals/11/f4/a3/11f4a35df7943365377f2520d1e9c4fd.png);
+    background-size: 400px 400px;
+    background-repeat: no-repeat;
+    background-position: right 100px top 200px;
+}
+
+table{
+    border: solid black 1px;
+    border-spacing: 0px;
+}
+
+td, th{
+    border:solid black 1px;
+    padding: 10px;
+    background-color: lightcyan;
+    text-align: center;
+}
+
+th{
+    background-color: lightgoldenrodyellow;
+}
+
+#test{
+    width: 0;
+}
